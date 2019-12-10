@@ -1,5 +1,5 @@
 # BackupWindows
-Script simple et commenté de sauvegarde récursive des données utilisateur sous Windows (script .bat)
+Script simple et commenté de sauvegarde récursive des données utilisateur sous Windows (script de type ".bat")
 
 Lancement depuis le bureau, en interface graphique (double-clic/icône).
 
