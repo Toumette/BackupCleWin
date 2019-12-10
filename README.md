@@ -6,3 +6,5 @@ Lancement depuis le bureau, en interface graphique (double-clic/icône).
 Ouvre une console temporaire permettant de suivre le déroulement de la sauvegarde et de s'assurer de son bon déroulement.
 
 Testé sous Windows Seven Edition familiale.
+
+(NB : Script volontairement "sur-commenté" !)
