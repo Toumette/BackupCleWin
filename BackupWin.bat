@@ -4,7 +4,9 @@ echo ===============================================
 echo Sauvegarde recursive incrementale de la cle USB "NomCle"
 echo dans le repertoire "X:\SauveCles\NomCle"
 echo "X:" est la lettre du disque recevant la sauvegarde
-echo ne sauve que les fichiers nouveaux ou + recents
+echo Ne sauve que les fichiers nouveaux ou + recents
+echo Les fichiers effaces dans la source ne sont pas
+echo effaces dans la sauvegarde
 echo ===============================================
 REM Script à placer à la racine de la clé USB
 REM fonctionne en environnement DOS / WINDOWS
@@ -15,7 +17,7 @@ date /T
 echo -----------------------------------------------
 date /T >> .\histo.txt
 echo -----------------------------------------------
-echo debut sauvegarde
+echo debut de la sauvegarde
 echo -----------------------------------------------
 REM il faut mettre le caractère d'échappement (^)
 REM juste après le dernier caractère de la ligne et
@@ -27,9 +29,9 @@ echo -----------------------------------------------
 REM      OPTIONS DE XCOPY UTILISEES :
 REM /C : Continue la copie même si des erreurs se produisent
 REM /E : Copie récursive incluant les répertoires vides
-REM /D : copie uniquement les fichiers dont l'heure source
+REM /D : Copie uniquement les fichiers dont l'heure source
 REM      est plus récente que l'heure de destination
-REM /R : copie aussi les fichiers en lecture seule
+REM /R : Copie aussi les fichiers en lecture seule
 REM /H : Copie aussi les fichiers cachés et les fichiers système
 REM /Y : Supprime la demande de confirmation de remplacement
 REM      des fichiers de destination existants
