@@ -1,12 +1,14 @@
 # BackupWindows
 
-Script simple et commenté de sauvegarde récursive des données utilisateur sous Windows (script de type ".bat")
+Script simple et commenté de sauvegarde récursive des données stockées sur une clé USB sous Windows (script de type ".bat")
 
-* Lancement par double-clic sur le fichier exécutable "BackupWin.bat".
+* La totalité de la clé USB est copiée sur le disque dur (ou sur un autre support : disque externe, autre clé...).
+
+* Lancement par double-clic sur le fichier exécutable "BackupWin.bat" placé à la racine de la clé.
 
 * Ouvre une console temporaire permettant de suivre le déroulement de la sauvegarde et de s'assurer de sa bonne exécution.
 
-* Crée et alimente un fichier de journalisation "histo.txt" précisant toute les dates des sauvegardes éxécutées.
+* Crée et alimente un fichier de journalisation "histo.txt" précisant toute les dates des sauvegardes éxécutées. Ce journal est présent à la racine de la clé et sur la sauvegarde.
 
 * Testé sous Windows Seven Edition familiale.
 
