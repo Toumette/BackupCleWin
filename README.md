@@ -6,9 +6,9 @@ Script simple et commenté de sauvegarde récursive des données stockées sur u
 
 * Lancement par double-clic sur le fichier exécutable "BackupWin.bat" placé à la racine de la clé.
 
-* Ouvre une console temporaire permettant de suivre le déroulement de la sauvegarde et de s'assurer de sa bonne exécution.
+* Ouvre une fenêtre console temporaire permettant de suivre le déroulement de la sauvegarde et de s'assurer de sa bonne exécution.
 
-* Crée et alimente un fichier de journalisation "histo.txt" précisant toute les dates des sauvegardes éxécutées. Ce journal est présent à la racine de la clé et sur la sauvegarde.
+* Crée et alimente un fichier de journalisation "histo.txt" précisant toutes les dates des sauvegardes exécutées. Ce journal est présent à la racine de la clé et sur la sauvegarde.
 
 * Testé sous Windows Seven Edition familiale.
 
