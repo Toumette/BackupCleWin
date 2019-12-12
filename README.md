@@ -1,7 +1,7 @@
 # BackupWindows
 Script simple et commenté de sauvegarde récursive des données utilisateur sous Windows (script de type ".bat")
 
-Lancement depuis le bureau, en interface graphique (double-clic/icône).
+Lancement par double-clic sur le fichier exécutable "".
 
 Ouvre une console temporaire permettant de suivre le déroulement de la sauvegarde et de s'assurer de sa bonne exécution.
 
