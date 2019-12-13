@@ -10,6 +10,8 @@
 
 * Crée et alimente un fichier de journalisation "histo.txt" précisant toutes les dates des sauvegardes exécutées. Ce journal est présent à la racine de la clé et sur la sauvegarde.
 
+* Configurer le script en précisant la lettre du lecteur recevant la sauvegarde avant le 1er lancement du script.
+
 * Testé sous Windows Seven Edition familiale.
 
 _Ce cript, volontairement "sur-commenté", est destiné aux débutants en scripting._
