@@ -1,6 +1,6 @@
 # BackupCleWin
 
-### Script simple et commenté de sauvegarde récursive des données stockées sur une clé USB sous Windows (script de type ".bat")
+### Script simple et commenté de sauvegarde récursive et incrémentale des données stockées sur une clé USB sous Windows (script de type ".bat")
 
 * La totalité de la clé USB est copiée sur le disque dur (ou sur un autre support : disque externe, autre clé...).
 
