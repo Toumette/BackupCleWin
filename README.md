@@ -12,4 +12,4 @@
 
 * Testé sous Windows Seven Edition familiale.
 
-_Ce cript, volontairement "sur-commenté", est destiné aux débutants en scripting_
+_Ce cript, volontairement "sur-commenté", est destiné aux débutants en scripting._
