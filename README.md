@@ -12,4 +12,4 @@
 
 * Testé sous Windows Seven Edition familiale.
 
-(NB : Script volontairement "sur-commenté" !)
+_Ce cript, volontairement "sur-commenté", est destiné aux débutants en scripting_
