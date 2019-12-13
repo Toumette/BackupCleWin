@@ -13,3 +13,5 @@
 * Testé sous Windows Seven Edition familiale.
 
 _Ce cript, volontairement "sur-commenté", est destiné aux débutants en scripting._
+
+© Henri 11/12/19
