@@ -16,4 +16,6 @@
 
 _Ce cript, volontairement "sur-commenté", est destiné aux débutants en scripting._
 
-© Henri 11/12/19
+---
+
+_© Henri 11/12/19_
