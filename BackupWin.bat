@@ -1,5 +1,6 @@
 @echo off
-REM (c) Henri 12/04/10
+TITLE "SAUVEGARDE CLE USB © Henri"
+REM  Henri 12/04/10
 echo ===============================================
 echo Sauvegarde recursive incrementale de la cle USB "NomCle"
 echo dans le repertoire "X:\SauveCles\NomCle"
