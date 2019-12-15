@@ -4,6 +4,10 @@
 
 * La totalité de la clé USB est copiée sur le disque dur (ou sur un autre support : disque externe, autre clé...).
 
+* Les fichiers déjà présents dans la sauvegarde ne sont pas retransférés sauf s'ils ont été modifiés entre temps.
+
+* Les fichiers effacés dans la source ne sont pas effacés dans la sauvegarde.
+
 * Lancement par double-clic sur le fichier exécutable "BackupWin.bat" placé à la racine de la clé.
 
 * Ouvre une fenêtre console temporaire permettant de suivre le déroulement de la sauvegarde et de s'assurer de sa bonne exécution.
