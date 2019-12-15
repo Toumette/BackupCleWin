@@ -10,12 +10,11 @@
 
 * Crée et alimente un fichier de journalisation "histo.txt" précisant toutes les dates des sauvegardes exécutées. Ce journal est présent à la racine de la clé et sur la sauvegarde.
 
-* Avant le 1er lancement du script, le configurer en précisant la lettre du lecteur recevant la sauvegarde ainsi que le répertoire racine de la sauvegarde.
+* Avant le 1er lancement du script, le configurer en précisant la lettre du lecteur recevant la sauvegarde ainsi que le répertoire racine de la sauvegarde sur ce lecteur.
 
 * Testé sous Windows Seven Edition familiale.
 
 _Ce cript, volontairement "sur-commenté", est destiné aux débutants en scripting BAT._
 
 ---
-
 _© Henri 11/12/19_
