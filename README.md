@@ -16,7 +16,7 @@
 
 * Avant le 1er lancement du script, le configurer en précisant la lettre du lecteur recevant la sauvegarde ainsi que le répertoire racine de la sauvegarde sur ce lecteur.
 
-* Testé sous Windows Seven Edition familiale.
+* Testé sous Windows Seven Edition familiale premium.
 
 _Ce cript, volontairement "sur-commenté", s'adresse aux débutants en scripting BAT._
 
