@@ -6,7 +6,7 @@
 
 * Les fichiers déjà présents dans la sauvegarde ne sont pas retransférés sauf s'ils ont été modifiés entre temps.
 
-* Les fichiers effacés dans la source ne sont pas effacés dans la sauvegarde.
+* Les fichiers effacés dans la source ne sont pas effacés dans la sauvegarde ce qui peut être utile mais nécessite un support de sauvegarde de taille suffisante.
 
 * Lancement par double-clic sur le fichier exécutable "BackupWin.bat" placé à la racine de la clé.
 
